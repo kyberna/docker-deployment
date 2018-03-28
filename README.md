@@ -1,0 +1,5 @@
+- minimal image for deployment
+- contains: 
+  - openssh-client
+  - curl
+  - rsync
